@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zakisarjudin
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning code
+- 💞️ I’m looking to collaborate on web apps
+- 📫 How to reach me in google
